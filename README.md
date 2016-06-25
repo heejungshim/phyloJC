@@ -8,7 +8,6 @@
 
 | Date        | Paper  |
 | ------------|-----------------------|
-|May 26 2016  | [Gene finding with a hidden Markov model of genome structure and evolution, Pedersen and Hein, 2003](http://www.ncbi.nlm.nih.gov/pubmed/12538242) |
-|             | [Multiple-sequence functional annotation and the generalized hidden Markov phylogeny, McAuliffe et al, 2004](http://www.ncbi.nlm.nih.gov/pubmed/14988105)  |
+|May 26 2016  | [Gene finding with a hidden Markov model of genome structure and evolution, Pedersen and Hein, 2003](http://www.ncbi.nlm.nih.gov/pubmed/12538242) and [Multiple-sequence functional annotation and the generalized hidden Markov phylogeny, McAuliffe et al, 2004](http://www.ncbi.nlm.nih.gov/pubmed/14988105)  |
 |May 12 2016  | [Combining phylogenetic and hidden Markov models in biosequence analysis, Siepel and Haussler, 2004](http://www.ncbi.nlm.nih.gov/pubmed/15285899) |
 
