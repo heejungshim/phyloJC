@@ -1,6 +1,6 @@
 # Phylogenetics/Stochastic Processes Journal Club
 
-[Shim Lab](http://heejungshim.org) and [Rao Lab](http://www.stat.purdue.edu/~varao/) are reading papers related to phylogenetics, comparative genomics, applications of stochastic processes to those fields, etc. Feel free to email us if you'd like to join or you have any suggestions.
+[Shim Lab](http://heejungshim.org) and [Rao Lab](http://www.stat.purdue.edu/~varao/) are reading papers related to phylogenetics, comparative genomics, applications of stochastic processes to those fields, etc. Feel free to email us if you'd like to join (even for a particular paper) or you have any suggestions.
 
 * [Link to potential reading list](https://docs.google.com/document/d/1whiJnESn0UGmLAcO762KCNRg6JJXb2a5CqTBrDzeHqQ/edit)
 * Meetings are on Thursday at 4pm unless otherwise stated.
