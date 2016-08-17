@@ -8,7 +8,7 @@
 
 | Date        | Paper  |
 | ------------|-----------------------|
-|August 19 2016, 3pm | [Chapter 11 of Molecular Evolution: A Statistical Approach, Ziheng Yang](https://global.oup.com/academic/product/molecular-evolution-9780199602612?cc=us&lang=en&) |
+|August 18 2016, 2pm | [Chapter 11 of Molecular Evolution: A Statistical Approach, Ziheng Yang](https://global.oup.com/academic/product/molecular-evolution-9780199602612?cc=us&lang=en&) |
 |July 11 2016  | [New Methods for Detecting Lineage-Specific Selection, Siepel et al, 2006](http://compgen.cshl.edu/~acs/dless.pdf) |
 |June 30 2016  | [Detection of nonneutral substitution rates on mammalian phylogenies, Pollard et al, 2010](http://genome.cshlp.org/content/20/1/110.long) |
 |May 26 2016  | [Gene finding with a hidden Markov model of genome structure and evolution, Pedersen and Hein, 2003](http://www.ncbi.nlm.nih.gov/pubmed/12538242) and [Multiple-sequence functional annotation and the generalized hidden Markov phylogeny, McAuliffe et al, 2004](http://www.ncbi.nlm.nih.gov/pubmed/14988105)  |
