@@ -8,6 +8,7 @@
 
 | Date        | Paper  |
 | ------------|-----------------------|
+|December 1 2016, 2pm | [Elephantid Genomes Reveal the Molecular Bases of Woolly Mammoth Adaptations to the Arctic, Lynch et al, 2015](http://www.cell.com/cell-reports/abstract/S2211-1247%2815%2900639-7?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124715006397%3Fshowall%3Dtrue&cc=y=) |
 |August 18 2016, 2pm | [Chapter 11 of Molecular Evolution: A Statistical Approach, Ziheng Yang](https://global.oup.com/academic/product/molecular-evolution-9780199602612?cc=us&lang=en&) |
 |July 11 2016  | [New Methods for Detecting Lineage-Specific Selection, Siepel et al, 2006](http://compgen.cshl.edu/~acs/dless.pdf) |
 |June 30 2016  | [Detection of nonneutral substitution rates on mammalian phylogenies, Pollard et al, 2010](http://genome.cshlp.org/content/20/1/110.long) |
