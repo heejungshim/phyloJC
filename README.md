@@ -8,6 +8,8 @@
 
 | Date        | Paper  |
 | ------------|-----------------------|
+|January 11 2017, 2pm | [A high-resolution map of human evolutionary constraint using 29 mammals, Lindblad-Toh et al, 2011](http://www.nature.com/nature/journal/v478/n7370/full/nature10530.html) |
+|December 14 2016, 3pm | [Genome sequencing reveals insights into physiology and longevity of the naked mole rat, Kim et al, 2011](http://www.nature.com.ezproxy.lib.purdue.edu/nature/journal/v479/n7372/full/nature10533.html) |
 |December 1 2016, 2pm | [Elephantid Genomes Reveal the Molecular Bases of Woolly Mammoth Adaptations to the Arctic, Lynch et al, 2015](http://www.cell.com/cell-reports/abstract/S2211-1247%2815%2900639-7?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124715006397%3Fshowall%3Dtrue&cc=y=) |
 |August 18 2016, 2pm | [Chapter 11 of Molecular Evolution: A Statistical Approach, Ziheng Yang](https://global.oup.com/academic/product/molecular-evolution-9780199602612?cc=us&lang=en&) |
 |July 11 2016  | [New Methods for Detecting Lineage-Specific Selection, Siepel et al, 2006](http://compgen.cshl.edu/~acs/dless.pdf) |
