@@ -8,7 +8,8 @@
 
 | Date        | Paper  |
 | ------------|-----------------------|
-|February 15 2017 | [Bayesian Inference of the Evolution of a Phenotype Distribution on a Phylogenetic Tree, Ansari and Didelot, 2016](http://www.genetics.org/content/early/2016/07/11/genetics.116.190496) |
+|March 1 2017 | [Bayesian Inference of the Evolution of a Phenotype Distribution on a Phylogenetic Tree, Ansari and Didelot, 2016](http://www.genetics.org/content/early/2016/07/11/genetics.116.190496) |
+|February 15 2017 | [Exploring the genesis and functions of Human Accelerated Regions sheds light on their role in human evolution, Hubisz and Pollard,2014](http://www.sciencedirect.com/science/article/pii/S0959437X14000781) and [An RNA gene expressed during cortical development evolved rapidly in humans, Pollard et al, 2006](http://www.nature.com/nature/journal/v443/n7108/full/nature05113.html)|
 |January 11 2017, 2pm | [A high-resolution map of human evolutionary constraint using 29 mammals, Lindblad-Toh et al, 2011](http://www.nature.com/nature/journal/v478/n7370/full/nature10530.html) |
 |December 14 2016, 3pm | [Genome sequencing reveals insights into physiology and longevity of the naked mole rat, Kim et al, 2011](http://www.nature.com.ezproxy.lib.purdue.edu/nature/journal/v479/n7372/full/nature10533.html) |
 |December 1 2016, 2pm | [Elephantid Genomes Reveal the Molecular Bases of Woolly Mammoth Adaptations to the Arctic, Lynch et al, 2015](http://www.cell.com/cell-reports/abstract/S2211-1247%2815%2900639-7?_returnURL=http%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124715006397%3Fshowall%3Dtrue&cc=y=) |
