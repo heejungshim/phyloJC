@@ -8,6 +8,7 @@
 
 | Date        | Paper  |
 | ------------|-----------------------|
+|April 5 2017 | [Phylogenetic Analysis Using Lévy Processes: Finding Jumps in the Evolution of Continuous Traits, LANDIS et al, 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3566600/pdf/sys086.pdf)|
 |March 8 2017 | [Bridging Inter- and Intraspecific Trait Evolution with a Hierarchical Bayesian Approach, Kostikova et al, 2016](https://academic.oup.com/sysbio/article/65/3/417/2468958/Bridging-Inter-and-Intraspecific-Trait-Evolution)|
 |March 1 2017 | [Bayesian Inference of the Evolution of a Phenotype Distribution on a Phylogenetic Tree, Ansari and Didelot, 2016](http://www.genetics.org/content/early/2016/07/11/genetics.116.190496) |
 |February 15 2017 | [Exploring the genesis and functions of Human Accelerated Regions sheds light on their role in human evolution, Hubisz and Pollard,2014](http://www.sciencedirect.com/science/article/pii/S0959437X14000781) and [An RNA gene expressed during cortical development evolved rapidly in humans, Pollard et al, 2006](http://www.nature.com/nature/journal/v443/n7108/full/nature05113.html)|
