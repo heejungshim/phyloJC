@@ -8,6 +8,7 @@
 
 | Date        | Paper  |
 | ------------|-----------------------|
+|April 12 2017 | [Inference of Evolutionary Jumps in Large Phylogenies using Lévy Processes, Duchen et al, 2017](https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syx028)|
 |April 5 2017 | [Phylogenetic Analysis Using Lévy Processes: Finding Jumps in the Evolution of Continuous Traits, LANDIS et al, 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3566600/pdf/sys086.pdf)|
 |March 8 2017 | [Bridging Inter- and Intraspecific Trait Evolution with a Hierarchical Bayesian Approach, Kostikova et al, 2016](https://academic.oup.com/sysbio/article/65/3/417/2468958/Bridging-Inter-and-Intraspecific-Trait-Evolution)|
 |March 1 2017 | [Bayesian Inference of the Evolution of a Phenotype Distribution on a Phylogenetic Tree, Ansari and Didelot, 2016](http://www.genetics.org/content/early/2016/07/11/genetics.116.190496) |
