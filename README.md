@@ -4,6 +4,7 @@
 
 * [Link to potential reading list](https://docs.google.com/document/d/1whiJnESn0UGmLAcO762KCNRg6JJXb2a5CqTBrDzeHqQ/edit)
 * Meetings are on Wed at 2:30pm unless otherwise stated.
+* [Link to summary of papers written by a PhD student Hanxi](https://github.com/HanxiSun/PaperSummaries/blob/master/17Spr_Genetics.ipynb)
 
 
 | Date        | Paper  |
