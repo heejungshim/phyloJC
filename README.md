@@ -9,6 +9,7 @@
 
 | Date        | Paper  |
 | ------------|-----------------------|
+|TBA | [Punctuated evolution shaped modern vertebrate diversity, Landis and Schraiber, 2017](http://biorxiv.org/content/early/2017/06/18/151175)|
 |April 12 2017 | [Inference of Evolutionary Jumps in Large Phylogenies using Lévy Processes, Duchen et al, 2017](https://academic.oup.com/sysbio/article-lookup/doi/10.1093/sysbio/syx028)|
 |April 5 2017 | [Phylogenetic Analysis Using Lévy Processes: Finding Jumps in the Evolution of Continuous Traits, LANDIS et al, 2013](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3566600/pdf/sys086.pdf)|
 |March 8 2017 | [Bridging Inter- and Intraspecific Trait Evolution with a Hierarchical Bayesian Approach, Kostikova et al, 2016](https://academic.oup.com/sysbio/article/65/3/417/2468958/Bridging-Inter-and-Intraspecific-Trait-Evolution)|
