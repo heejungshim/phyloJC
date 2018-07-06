@@ -9,6 +9,7 @@
 
 | Date        | Paper  |
 | ------------|-----------------------|
+|July 6 2018 | [Continuous-Trait Probabilistic Model for Comparing Multi-species Functional Genomic Data, Yang et al, 2018](https://www.cell.com/cell-systems/fulltext/S2405-4712(18)30240-0)|
 |June 6 2018 | [Birth/birth-death processes and their computable transition probabilities with biological applications, Ho et al, 2018](https://link.springer.com/article/10.1007/s00285-017-1160-3)|
 |May 17 2018 | [A genome-wide association study identifies a horizontally transferred bacterial surface adhesin gene associated with antimicrobial resistant strains, Suzuki et al, 2016](https://www.nature.com/articles/srep37811)|
 |May 17 2018 | [Distinct Campylobacter fetus lineages adapted as livestock pathogens and human pathobionts in the intestinal microbiota, Iraola et al, 2017](https://www.nature.com/articles/s41467-017-01449-9)|
